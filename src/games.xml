@@ -12,7 +12,7 @@
  
 <game>
   <title lang ="en">X-com 2</title>
-  <price>66</price>
+  <price>33.44</price>
   <platforms>
   <platform>PC</platform>
   <platform>Mac</platform>
@@ -21,7 +21,7 @@
  
 <game>
   <title lang ="en">Stellaris</title>
-  <price>666</price>
+  <price>22.99</price>
   <platforms>
   <platform>PC</platform>
   <platform>Linux</platform>
